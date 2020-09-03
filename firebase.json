@@ -1,8 +1,0 @@
-apiKey: "AIzaSyDPsZ9qBJN9W0tBpnr6qZ3a4WjwsS8Xs54",
-    authDomain: "flaskproject-8fcb1.firebaseapp.com",
-    databaseURL: "https://flaskproject-8fcb1.firebaseio.com",
-    projectId: "flaskproject-8fcb1",
-    storageBucket: "flaskproject-8fcb1.appspot.com",
-    messagingSenderId: "328084030565",
-    appId: "1:328084030565:web:9a9e99c1528ba51cc4b28c"
-  };
